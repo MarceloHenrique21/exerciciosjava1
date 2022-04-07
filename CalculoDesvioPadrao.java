@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class quatro {
+public class CalculoDesvioPadrao {
     public static void main(String[] args) {
        Scanner leitor = new Scanner(System.in); 
        float[] vetor = new float[10];
